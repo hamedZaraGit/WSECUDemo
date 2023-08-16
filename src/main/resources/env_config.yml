@@ -1,0 +1,10 @@
+ui:
+   browser: edge
+   headless: false
+   url: https://wsecu.org/
+   expectedDigitalUrl: https://digital.wsecu.org/banking/signin
+   
+   
+   
+   
+   
