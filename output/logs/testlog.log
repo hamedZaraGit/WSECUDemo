@@ -5,3 +5,10 @@
 2023-08-16 13:48:03,844 - logger_file -INFO - User enter incorrect password  thispasswillfailforsure
 2023-08-16 13:48:07,812 - logger_file -INFO - User click on OnlineBanking signIn button
 2023-08-16 13:48:08,585 - logger_file -INFO - User verifies that an error message appearsSorry, incorrect username.
+2023-08-16 14:20:55,543 - logger_file -INFO - user is on wsecu website
+2023-08-16 14:20:57,490 - logger_file -INFO - User enter incorrect username  thisuserwillnotwork
+2023-08-16 14:21:28,596 - logger_file -INFO - User click on Homepage signIn button
+2023-08-16 14:21:38,885 - logger_file -INFO - User verified redirected to the WSECU Online Banking website
+2023-08-16 14:21:41,927 - logger_file -INFO - User enter incorrect password  thispasswillfailforsure
+2023-08-16 14:21:46,400 - logger_file -INFO - User click on OnlineBanking signIn button
+2023-08-16 14:21:47,204 - logger_file -INFO - User verifies that an error message appearsSorry, incorrect username.

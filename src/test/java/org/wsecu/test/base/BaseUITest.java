@@ -15,6 +15,10 @@ public class BaseUITest extends CommonUtility {
 		super.setupBrowser();
 	}
 
+	/**
+	 * 
+	 * @param scenario
+	 */
 	@After
 	public void closeTests(Scenario scenario) {
 		if (scenario.isFailed()) {

@@ -11,6 +11,11 @@ public class ReadYamlFiles {
 	private static ReadYamlFiles readYamlFiles;
 	private HashMap propertyMap;
 	
+	/**
+	 * 
+	 * @param filePath
+	 * @throws FileNotFoundException
+	 */
 	private ReadYamlFiles(String filePath) throws FileNotFoundException {
 		FileInputStream fileInputStream = FileUtility.getFileInputStream(filePath);
 		Yaml yaml = new Yaml();
