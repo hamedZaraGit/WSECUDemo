@@ -1,5 +1,5 @@
 ui:
-   browser: edge
+   browser: chrome
    headless: false
    url: https://wsecu.org/
    expectedDigitalUrl: https://digital.wsecu.org/banking/signin
